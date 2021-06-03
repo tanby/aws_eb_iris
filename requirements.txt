@@ -1,0 +1,7 @@
+# python==3.7.0
+pip>=21.1.2
+pytest
+flask
+nose
+numpy>=1.19.5
+scikit-learn==0.21.3
